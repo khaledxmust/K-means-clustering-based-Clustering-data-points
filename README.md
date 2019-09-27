@@ -15,4 +15,4 @@ You should run the K-means algorithm with the initialization method above 100 ti
 
 Requirements:
 
-• A plot of the points provided in the dataset after clustering showing the three identified clusters. For this plot, use the best clustering result out of 100 repetitions you did.
+• A plot of the points provided in the dataset after clustering showing the three identified clusters.
